@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Clevergram/static/css/main.505e6369.css",
-    "main.js": "/Clevergram/static/js/main.08fdd31f.js",
+    "main.js": "/Clevergram/static/js/main.2fb4552b.js",
     "static/media/loginBackground.jpg": "/Clevergram/static/media/loginBackground.fba653d5d0e46dfa8539.jpg",
     "static/media/search.png": "/Clevergram/static/media/search.a27091ef0c45faf8a66e.png",
     "index.html": "/Clevergram/index.html",
     "main.505e6369.css.map": "/Clevergram/static/css/main.505e6369.css.map",
-    "main.08fdd31f.js.map": "/Clevergram/static/js/main.08fdd31f.js.map"
+    "main.2fb4552b.js.map": "/Clevergram/static/js/main.2fb4552b.js.map"
   },
   "entrypoints": [
     "static/css/main.505e6369.css",
-    "static/js/main.08fdd31f.js"
+    "static/js/main.2fb4552b.js"
   ]
 }
